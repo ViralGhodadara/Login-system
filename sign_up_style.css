@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+::placeholder{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hdg h3{
+    text-align: center;
+    font-family: verdana;
+    font-size: 28px;
+    text-align: center;
+    color: #54579e;
+}
+.main{
+    height: 50%;
+    background-color: white;
+    width: 40%;
+    margin-left: 30%;
+}
+.lb{
+    font-family: verdana;
+    color: #300842;
+    height: 80px;
+}
+.table{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.box{
+    height: 18px;
+    width: 195px;
+}
+.btn{
+    height: 28px;
+    width: 339px;
+    background-color: #6f49ae;
+    border: 1px solid #6f49ae;
+    border-radius: 3%;
+    color: white;
+    font-family: verdana;
+    font-size: 18px;
+}

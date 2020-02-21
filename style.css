@@ -1,0 +1,42 @@
+body{
+    background-color: beige;
+}
+.first_heading h3{
+    font-family: verdana;
+    font-size: 28px;
+    text-align: center;
+    color: #54579e;
+}
+.my_image img{
+    height: 220px;
+    width: 220px;
+    border-radius: 50%;
+}
+.my_image{
+    margin-left: 40%;
+}
+.title{
+    font-family: verdana;
+    margin-left: 3%;
+    color: #987f7f;
+    margin-top: 0.95%;
+}
+.page{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.btn{
+    width: 77px;
+    margin-left: 55px;
+    height: 41px;
+    background-color: #6f49ae;
+    border: 1px solid #6f49ae;
+    border-radius: 30%;
+    
+}
+
+.btn a{
+    font-family: verdana;
+    color: whitesmoke;
+    text-decoration: none;
+}
